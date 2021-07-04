@@ -40,6 +40,12 @@
 
 ●  [Vehicle Detection](https://github.com/2sbsbsb/CarND-Vehicle-Detection)
 
+### Algorithms 
+
+[Algorithms by Examples](https://github.com/2sbsbsb/algorithmByExamples)
+
+
+
 
 ### Articles 
 
