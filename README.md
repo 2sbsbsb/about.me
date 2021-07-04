@@ -1,6 +1,6 @@
 ## Santosh Bhushan
 
-### [Git Hub URL](https://github.com/2sbsbsb)
+### [Git Hub](https://github.com/2sbsbsb)
 
 
 ### Projects Summary
