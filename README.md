@@ -15,7 +15,7 @@
 [Documentation as per changes in RPCServer.java](https://github.com/rabbitmq/rabbitmq-website/pull/430)
 
 
-[Fork And Join Utility](https://github.com/2sbsbsb/ForkAndJoinUtility)
+[Fork And Join Utility](https://github.com/2sbsbsb/ForkAndJoinUtility) - Utility class to easily use join and fork feature from java 7
 
 
 ### Academic Projects 
