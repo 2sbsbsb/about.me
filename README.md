@@ -1,9 +1,7 @@
-## Santosh Bhushan
+# Santosh Bhushan
 
-### [Git Hub](https://github.com/2sbsbsb)
+## README of my [Git Hub](https://github.com/2sbsbsb) projects 
 
-
-### Projects Summary
 
 ### GIST - Code, notes, and snippets
 
