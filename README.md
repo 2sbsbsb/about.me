@@ -2,9 +2,12 @@
 
 ### GIST - Code, notes, and snippets
 
-
 [Project GIST](https://gist.github.com/2sbsbsb)
 
+
+### Contribution to popular Open Source Project 
+
+[RabbitMq](https://github.com/rabbitmq/rabbitmq-website/pull/430)
 
 
 
