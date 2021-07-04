@@ -9,7 +9,7 @@
 
 [Rabbitmq](https://www.rabbitmq.com/) - Most widely deployed open source message broker 
 
-[Pull Request](https://github.com/rabbitmq/rabbitmq-website/pull/430)
+[Documentation as per changes in RPCServer.java](https://github.com/rabbitmq/rabbitmq-website/pull/430)
 
 
 
