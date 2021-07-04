@@ -5,7 +5,7 @@
 
 ### GIST - Code, notes, and snippets
 
-[Project GIST](https://gist.github.com/2sbsbsb)
+[GIST](https://gist.github.com/2sbsbsb)
 
 
 ### Contribution to Open Source Project 
