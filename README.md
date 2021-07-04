@@ -5,9 +5,11 @@
 [Project GIST](https://gist.github.com/2sbsbsb)
 
 
-### Contribution to popular Open Source Project 
+### Contribution to Open Source Project 
 
-[RabbitMq](https://github.com/rabbitmq/rabbitmq-website/pull/430)
+[Rabbitmq](https://www.rabbitmq.com/) - Most widely deployed open source message broker 
+
+[Pull Request](https://github.com/rabbitmq/rabbitmq-website/pull/430)
 
 
 
