@@ -3,9 +3,9 @@
 ## README of my [Git Hub](https://github.com/2sbsbsb) projects 
 
 
-### GIST - Code, notes, and snippets
+### GIST
 
-[GIST](https://gist.github.com/2sbsbsb)
+[Code, notes, and snippets](https://gist.github.com/2sbsbsb)
 
 
 ### Contribution to Open Source Project 
