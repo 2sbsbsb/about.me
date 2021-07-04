@@ -14,6 +14,18 @@
 
 ### Academic Projects 
 
+#### Udacity Self Driving Car 
+
+●  Capstone Project https://github.com/2sbsbsb/CarND-Capstone
+●  Traffic Sign Classifier https://github.com/2sbsbsb/CarND-Traffic-Sign-Classifier-Project
+●  Path Planning https://github.com/2sbsbsb/CarND-Path-Planning-Project
+●  PID Controller https://github.com/2sbsbsb/CarND-PID-Control-Project
+●  Advanced Lane lines https://github.com/2sbsbsb/CarND-Advanced-Lane-Lines
+●  Model Predictive Control https://github.com/2sbsbsb/CarND-MPC-Project
+●  Extended Kalman Filter https://github.com/2sbsbsb/CarND-Extended-Kalman-Filter-Project
+●  Unscented Kalman Filter https://github.com/2sbsbsb/CarND-Unscented-Kalman-Filter-Project
+●  Vehicle Detection https://github.com/2sbsbsb/CarND-Vehicle-Detection
+
 
 ### Articles 
 
