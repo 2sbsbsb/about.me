@@ -2,7 +2,8 @@
 
 ### GIST - Code, notes, and snippets
 
-[Project GIST] (https://gist.github.com/2sbsbsb)
+
+[Project GIST](https://gist.github.com/2sbsbsb)
 
 
 
